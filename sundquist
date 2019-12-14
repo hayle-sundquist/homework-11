@@ -1,0 +1,17 @@
+var x=50;
+var y=50;
+var diameter=25;function
+draw
+creatw canvas(800,600);
+Function draw(circle)
+Background(200)
+fill(24,200,29):
+circle(x,y,diameter)
+create canvas(800,600)
+backfround(0)
+fill(24,200,29)
+circlex,y,diameter):
+x+=10
+x+=10;
+y+=3;
+diameter+=8;
